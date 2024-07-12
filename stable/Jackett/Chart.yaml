@@ -1,0 +1,9 @@
+apiVersion: v2
+name: jackett
+version: 0.1.0
+description: Jackett - API Support for your favorite torrent trackers
+type: application
+appVersion: "0.22.320"
+maintainers:
+  - name: your-name
+    email: your-email@example.com
